@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorillaGame", "GorillaGame\GorillaGame\GorillaGame.csproj", "{2B768E96-FA86-424A-BD58-3B6286A0182B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GorillaGameContent", "GorillaGame\GorillaGameContent\GorillaGameContent.contentproj", "{123C5828-9EB9-406F-9BD9-B324CE8693AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B768E96-FA86-424A-BD58-3B6286A0182B}.Debug|x86.ActiveCfg = Debug|x86
+		{2B768E96-FA86-424A-BD58-3B6286A0182B}.Debug|x86.Build.0 = Debug|x86
+		{2B768E96-FA86-424A-BD58-3B6286A0182B}.Release|x86.ActiveCfg = Release|x86
+		{2B768E96-FA86-424A-BD58-3B6286A0182B}.Release|x86.Build.0 = Release|x86
+		{123C5828-9EB9-406F-9BD9-B324CE8693AE}.Debug|x86.ActiveCfg = Debug|x86
+		{123C5828-9EB9-406F-9BD9-B324CE8693AE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
